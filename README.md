@@ -1,6 +1,6 @@
 # Hey, I'm Neil Zambrano
 
-Computer Science student at the **University of Central Florida** (Class of 2028) with a focus on **cloud infrastructure** and **cybersecurity**. I enjoy building things close to the metal, most of my projects are in C, but I work across Python and Java as well.
+Computer Science student at the **University of Central Florida** (Class of 2028) with a focus on **cloud infrastructure** and **cybersecurity**. Most of my projects are in C working close to the metal, but I build across Python and Java as well.
 
 Currently looking for a **Summer 2027 internship** in cloud, security, or software engineering.
 
@@ -29,16 +29,16 @@ Currently looking for a **Summer 2027 internship** in cloud, security, or softwa
 
 | Project | Description | Language |
 |---|---|---|
-| [Animal Shelter Management System](https://github.com/NeilZam/animal-shelter-management-system) | Binary search tree with insertion, deletion, search, and ranking | C |
-| [Hill Cipher Encryption](https://github.com/NeilZam/hill-cypher-encryption) | File-based encryption using matrix operations and modular arithmetic | C |
-| [Cat Adoption Priority Queue](https://github.com/NeilZam/cat-adoption-priority-queue) | Min/max heap triage workflows with O(log n) priority management | C |
-| [Java Processor](https://github.com/NeilZam/java-processor) | Java project - see repo for details | Java |
+| [Hill Cipher Encryption](https://github.com/NeilZam/hill-cypher-encryption) | Encryption tool using matrix operations and modular arithmetic with file I/O and variable key sizes | C |
+| [Animal Shelter Management System](https://github.com/NeilZam/animal-shelter-management-system) | Binary search tree with insertion, deletion, search, ranking, and filtering using dynamic memory allocation | C |
+| [Veterinary Clinic Simulator](https://github.com/NeilZam/veterinary-simulation) | Event-driven scheduling simulator using linked lists, queues, stacks, and dynamic memory management | C |
+| [Python Battleship Game](https://github.com/NeilZam/python-battleship-game) | Turn-based Battleship game with grid logic, ship placement, and hit/miss tracking | Python |
 
 ---
 
 ## Currently Learning
 
-- Cloud and Security fundamentals (working toward **AWS Cloud Practitioner**)
+- Cloud and security fundamentals (working toward **AWS Cloud Practitioner**)
 - Cloud infrastructure concepts: AWS, networking, IAM
 - Cybersecurity principles, building on Security in Computing coursework
 
@@ -46,9 +46,10 @@ Currently looking for a **Summer 2027 internship** in cloud, security, or softwa
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[neil-zambrano-286b96323])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/neil-zambrano-286b96323)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neilalejandro2005@gmail.com)
 
 ---
 
 *Trilingual in English, Spanish, and Portuguese - Open to internship opportunities for Summer 2027*
+ 
