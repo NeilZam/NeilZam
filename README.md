@@ -46,7 +46,7 @@ Currently looking for a **Summer 2027 internship** in cloud, security, or softwa
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[neil-zambrano-286b96323])
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neilalejandro2005@gmail.com)
 
 ---
